@@ -1,6 +1,7 @@
 ### Olá ! Eu sou Vítor Raimundo 🖐🏻
 
-• Graduando de Ciência da Computação 
+• Degree in Computer Science
+• Scholarship/ Internship from the Center for Health Technologies and Strategies (State University of Paraíba)
 <br/>
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorgabinio@gmail.com)
@@ -10,7 +11,7 @@
 
 ![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=Raivitor09&show_icons=true&theme=tokyonight)
 
-### Tecnologias que eu uso no meu dia
+### Technologies I use in my day
 <div style="display: inline_block">
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />

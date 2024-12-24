@@ -1,6 +1,7 @@
 ### Olá ! Eu sou Vítor Raimundo 🖐🏻
 
 • Degree in Computer Science
+<br/>
 • Scholarship/ Internship from the Center for Health Technologies and Strategies (State University of Paraíba)
 <br/>
 
